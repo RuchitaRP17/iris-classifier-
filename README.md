@@ -215,11 +215,11 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-[Your Name]  
-[Your Email]  
-[Your LinkedIn/Portfolio]
+Ruchita Pawar 
+ruchitaravipawar@gmail.com
+https://www.linkedin.com/in/ruchita-pawar-097728248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
-**Last Updated**: February 2025
+
 
