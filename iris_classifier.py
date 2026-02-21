@@ -3,8 +3,8 @@ Iris Flower Classification Project
 This script builds and evaluates multiple machine learning models to classify iris flowers
 based on their sepal and petal measurements.
 
-Author: [Your Name]
-Date: 2025
+Author: Ruchita Pawar
+Date: Dec 2025
 """
 
 import pandas as pd
